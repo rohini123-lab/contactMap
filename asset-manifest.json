@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/%3Crepository-name%3E/static/css/main.c0bc7ac2.css",
+    "main.js": "/%3Crepository-name%3E/static/js/main.7dcb721d.js",
+    "static/js/202.10d0458c.chunk.js": "/%3Crepository-name%3E/static/js/202.10d0458c.chunk.js",
+    "static/css/675.4c9f6202.chunk.css": "/%3Crepository-name%3E/static/css/675.4c9f6202.chunk.css",
+    "static/js/675.cd564267.chunk.js": "/%3Crepository-name%3E/static/js/675.cd564267.chunk.js",
+    "static/js/897.c8c2439f.chunk.js": "/%3Crepository-name%3E/static/js/897.c8c2439f.chunk.js",
+    "static/js/585.e2f3225e.chunk.js": "/%3Crepository-name%3E/static/js/585.e2f3225e.chunk.js",
+    "static/js/787.25968f45.chunk.js": "/%3Crepository-name%3E/static/js/787.25968f45.chunk.js",
+    "static/js/401.f24b8a90.chunk.js": "/%3Crepository-name%3E/static/js/401.f24b8a90.chunk.js",
+    "static/js/533.37e3a38a.chunk.js": "/%3Crepository-name%3E/static/js/533.37e3a38a.chunk.js",
+    "index.html": "/%3Crepository-name%3E/index.html",
+    "main.c0bc7ac2.css.map": "/%3Crepository-name%3E/static/css/main.c0bc7ac2.css.map",
+    "main.7dcb721d.js.map": "/%3Crepository-name%3E/static/js/main.7dcb721d.js.map",
+    "202.10d0458c.chunk.js.map": "/%3Crepository-name%3E/static/js/202.10d0458c.chunk.js.map",
+    "675.4c9f6202.chunk.css.map": "/%3Crepository-name%3E/static/css/675.4c9f6202.chunk.css.map",
+    "675.cd564267.chunk.js.map": "/%3Crepository-name%3E/static/js/675.cd564267.chunk.js.map",
+    "897.c8c2439f.chunk.js.map": "/%3Crepository-name%3E/static/js/897.c8c2439f.chunk.js.map",
+    "585.e2f3225e.chunk.js.map": "/%3Crepository-name%3E/static/js/585.e2f3225e.chunk.js.map",
+    "787.25968f45.chunk.js.map": "/%3Crepository-name%3E/static/js/787.25968f45.chunk.js.map",
+    "401.f24b8a90.chunk.js.map": "/%3Crepository-name%3E/static/js/401.f24b8a90.chunk.js.map",
+    "533.37e3a38a.chunk.js.map": "/%3Crepository-name%3E/static/js/533.37e3a38a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0bc7ac2.css",
+    "static/js/main.7dcb721d.js"
+  ]
+}
