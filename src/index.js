@@ -11,7 +11,7 @@ import store from './Store/Store';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="/contactMap">
     <Provider store={store}>
              <App />
             </Provider>
